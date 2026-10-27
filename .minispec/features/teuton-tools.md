@@ -1,5 +1,7 @@
 # Writing, running and reading Teuton tests, and a teuton-panel
 
+Issue: [#1](https://github.com/falkenslab/teuton-mcp/issues/1)
+
 ## Goal
 
 A teacher's agent writes a Teuton test from a practice, checks it, runs it for the class after the teacher's yes, reads each student's results, hands the grades to Moodle, and drives a teuton-panel in session.
